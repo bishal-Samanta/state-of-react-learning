@@ -1,27 +1,268 @@
-# React + TypeScript + Vite
+Main Apis
+- createContext 
+- createPortal
+- forwardRef
+- <Fragment >
+- Lazy 
+- memo 
+- <Profiler >
+- <StrictMMode>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hooks : 
+- useCallback 
+- useContext 
+- useDeferredValue
+- useEffect 
+- useID 
+- useMemo
+- useReducer 
+- useRef 
+- useState 
+- useSyncExternalStore 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+New APIs
+- React cache 
+- React Server Components 
+- Server Action 
+- startTransition 
+- <Suspense>
+- Tain API 
+- use() hook
+- useFormState 
+- useFormStatus
+- useTransition 
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
 
-- Configure the top-level `parserOptions` property like this:
+Component Library :
+- Ant Design 
+- Chakra UI 
+- Headless UI 
+- MUI 
+- Radix 
+- React Bootstrap 
+- shadcn/ui
+- React Aria
 
-```js
-   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-   },
-```
+Animation :
+- Reamer Motion 
+- React Spring 
+- React Motion 
+- AutoAnimate 
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+Visualization and Graphics :
+- D3
+- Nivo 
+- React Vis 
+- Recharts 
+- Tremor
+- Victory
+
+Forms :
+- React Hook Form 
+- Formic 
+- React-jsonschema-form 
+
+
+
+CSS Library :
+- CSS Module 
+- Emotion 
+- Sass / SCSS
+- Stitches 
+- Styled Component 
+- Styled JSX 
+- Tailwind CSS 
+- UnoCSS 
+
+
+State Management :
+- Jotai
+- MobX
+- Recoil
+- Redux 
+- Redux Toolkit 
+- useState 
+- XState
+- Zustand 
+
+Data Loading :
+- Apollo Client 
+- Relay 
+- RTK Query
+- SWR
+- TanStack Query 
+- tRPC 
+- Fetch 
+
+
+Meta Frameworks : 
+- Astro 
+- CRA
+- Gatsby 
+- Next JS 
+- Remix 
+- Redwood 
+
+
+Build Tools : 
+- webpack 
+- vite 
+- tsup 
+- esbuild 
+- Rollup 
+- Parcel 
+- Turbopack 
+
+Hosting React Application :
+- AWS 
+- Azure 
+- Cloudflare 
+- DigitalOcean 
+- Fastly 
+- Fly.io 
+- Github Pages 
+- Google Cloud 
+- Heroku 
+- Render 
+- Vercel 
+
+Testing :
+- Cypress 
+- Jest 
+- Playwrite 
+- StoryBook 
+- Testing Library 
+
+
+Rendering Library : 
+- React Dom 
+- React Email 
+- React Native 
+- React PDF 
+- React Native For Windows 
+- Remotion 
+- React Three Fiber 
+
+
+Validation Against Schema : 
+- joi
+- Zod 
+- Yup 
+- io-ts 
+
+Authentication :
+- Clerk 
+- FusionAuth 
+- Auth.js 
+- Lucia 
+- Passport 
+
+Rendering Patterns : 
+- Edge Rendering 
+- Incremental Static Generation 
+- Island Architechture 
+- Multi page Appliaction 
+- Partial Hydration 
+- Progressive enhancement 
+- Progressive Hydration 
+- Resumability 
+- Server Side Rendering 
+- Single Page Application 
+- Static Site Generation 
+- Streaming SSR 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
