@@ -1,12 +1,13 @@
 
 import './App.css'
+import { ReactTypeScript } from './react-ts/ReactTypeScript'
 
 function App() {
 
 
   return (
     <>
-      Hello World 
+      <ReactTypeScript /> 
     </>
   )
 }
